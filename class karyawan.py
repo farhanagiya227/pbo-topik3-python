@@ -1,4 +1,4 @@
-lass Karyawan:
+class Karyawan:
     def __init__(self, nama, jabatan):
         self.__nama = nama   # Private attribute
         self.__jabatan = jabatan  # Private attribute
